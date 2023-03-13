@@ -1,0 +1,3 @@
+SELECT Products.Name, Categories.Name
+From Products
+left join Categories;
